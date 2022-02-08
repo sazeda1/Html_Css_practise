@@ -4,7 +4,7 @@
 #CSS_practise
 #introduction #CSS #CSS Margin #CSS padding #CSS Height,Weidht
 
-CSS can be added to HTML documents in 3 ways:
+###CSS can be added to HTML documents in 3 ways:
 
 Inline - by using the style attribute inside HTML elements
 Internal - by using a <style> element in the <head> section
@@ -13,3 +13,7 @@ The most common way to add CSS, is to keep the styles in external CSS files. How
   
 ###The alt Attribute
 The required alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+###Images on Another Server/Website
+Some web sites point to an image on another server.
+
+To point to an image on another server, you must specify an absolute (full) URL in the src attribute:
