@@ -10,3 +10,6 @@ Inline - by using the style attribute inside HTML elements
 Internal - by using a <style> element in the <head> section
 External - by using a <link> element to link to an external CSS file
 The most common way to add CSS, is to keep the styles in external CSS files. However, in this tutorial we will use inline and internal styles, because this is easier to demonstrate, and easier for you to try it yourself.
+  
+###The alt Attribute
+The required alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
